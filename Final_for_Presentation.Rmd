@@ -46,14 +46,6 @@ These provisions of the ACA make health insurance accessible and affordable to p
 
 However, this increased coverage comes at a cost of increased premium growths for consumers, and increases in federal spending. The expansion of health insurance and healthcare coverage is projected to cost of the U.S. government up to $1.34 trillion over the next decade. It is thus no surprise that the States fall on various sides of the political spectrum when it comes to support for medicaid.
 
-# Text analysis: Media and the Affordable care act
-We are also interested in how people think about Affordable care act(ACA). We want to have a look of the tweets and newspaper related to ACA. To realize this, we use API to download articles realted to ACA on New york times from 2011-2017 and transform them into corpus to do the text analysis.
-
-__Research Questions:__
-1) The overll trend of publuc attention, which can be shown as the number of articles related to ACA in different years.
-2) What people discuss about when they discuss ACA, which can be shown as the word frequencies.
-
-We could see that people discussed ACA a lot when obama first signed it, and the election in 2017 made it a hot topic again. And not suprisingly, peopel always talk about Trump when they talk about ACA
 -----
 
 ```{r, eval = TRUE, echo = FALSE, warning = FALSE, tidy = TRUE}
